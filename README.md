@@ -1,2 +1,5 @@
 # go-hello-world-http
-basic go webserver with no dependencies
+
+Basic go webserver with no dependencies
+
+Respects `PORT` and outputs simple logs
